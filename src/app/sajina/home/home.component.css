@@ -1,0 +1,10 @@
+ul.experience-details {
+    list-style: disc;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.expertise-check::before {
+    content: "\2713";
+    margin-right: 5px;
+}

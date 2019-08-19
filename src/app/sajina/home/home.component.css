@@ -8,3 +8,8 @@ ul.experience-details {
     content: "\2713";
     margin-right: 5px;
 }
+
+.portfolio-image-display {
+    width: 100%;
+    height: 260px!important;
+}
